@@ -80,9 +80,9 @@ This project is built to address the **OWASP LLM Top 10** and common SOC 2 audit
 
 ## 🗺️ Roadmap
 
-- [ ] **Multi-Agent Orchestration**: Secure communication between multiple autonomous agents.
-- [ ] **Blockchain Ledger**: Moving the Compliance Ledger to an on-chain immutable record.
-- [ ] **Mobile Interface**: PWA support for on-the-go security monitoring.
+-  **Multi-Agent Orchestration**: Secure communication between multiple autonomous agents.
+-  **Blockchain Ledger**: Moving the Compliance Ledger to an on-chain immutable record.
+-  **Mobile Interface**: PWA support for on-the-go security monitoring.
 
 
 
